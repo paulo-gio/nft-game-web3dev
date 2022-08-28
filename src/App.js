@@ -133,6 +133,7 @@ const App = () => {
           <p className="header gradient-text">🗡️ MAFIA WARS 🗡️</p>
           <p className="sub-text1">Il Capo Don Ferrucio colocou a cabeça de seus ex-matadores à venda após ser traído por eles.</p>
           <p className="sub-text2">Quem vencerá esta batalha?</p>
+          <p className="sub-text3">Por favor, utilize a rede Polygon Mumbai para jogar.</p>
         </div>  
         <div className="connect-wallet-container">
           {renderContent()}

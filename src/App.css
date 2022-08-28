@@ -36,6 +36,11 @@
   font-size: 35px;
   color: rgb(255, 255, 255);
 }
+.sub-text3 {
+  margin-top: 0px;
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+}
 
 .content-container {
   background-color: #a200d6;

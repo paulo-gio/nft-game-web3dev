@@ -1,14 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500&display=swap');
+
 .App {
   height: 100vh;
-  background-color: #000000;
   overflow: scroll;
   text-align: center;
+  background-image:
+  url('http://hardt.ind.br/wp-content/uploads/2014/05/black-floral-texture-pattern-design-wallpaper-background.jpeg');
   
 }
 
 .container {
   height: 100vh;
-  background-color: #000000;
+  background-color: transparent;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -20,23 +23,27 @@
 
 .header {
   margin: 0;
+  font-family: Roboto Slab;
   font-size: 50px;
   font-weight: bold;
   color: white;
-  background-color: #562938;
+  background-color: #562938
 }
 
 .sub-text1 {
   margin-top: 20px;
   font-size: 25px;
   color: rgb(255, 255, 255);
+  font-family: Roboto Slab;
 }
 .sub-text2 {
+  font-family: Roboto Slab;
   margin-top: 0px;
   font-size: 25px;
   color: rgb(255, 255, 255);
 }
 .sub-text3 {
+  font-family: Roboto Slab;
   margin-top: 0px;
   font-size: 15px;
   color: rgb(255, 255, 255);

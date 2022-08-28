@@ -8,8 +8,6 @@ import { ethers } from "ethers";
 import Arena from './Components/Arena';
 import LoadingIndicator from './Components/LoadingIndicator';
 
-
-
 const TWITTER_HANDLE = "web3dev_"
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`
 
